@@ -1,0 +1,10 @@
+{
+  "name": "PulseWave AI - Visualizador de Música Reactivo",
+  "description": "Visualizador reactivo de audio en tiempo real de alto rendimiento. Captura audio de pestañas (Google Flow Music, Spotify, YouTube), micrófono, archivos o sintetizadores integrados, con adaptación estilística inteligente y bajo consumo de GPU.",
+  "requestFramePermissions": [
+    "microphone",
+    "display-capture"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
